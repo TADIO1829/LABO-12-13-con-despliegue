@@ -1,0 +1,205 @@
+{
+  "regist": [
+    {
+      "id": "b55c",
+      "ConsumoDiarioLitros": 250,
+      "FugasDetectadas": 2,
+      "DesperdicioEstimadoLitros": 50,
+      "NivelConsumo": "Alto",
+      "FechaReporte": "2024-11-17"
+    },
+    {
+      "id": "ddd8",
+      "ConsumoDiarioLitros": 180,
+      "FugasDetectadas": 1,
+      "DesperdicioEstimadoLitros": 20,
+      "NivelConsumo": "Normal",
+      "FechaReporte": "2024-11-16"
+    },
+    {
+      "id": "8335",
+      "ConsumoDiarioLitros": 300,
+      "FugasDetectadas": 3,
+      "DesperdicioEstimadoLitros": 70,
+      "NivelConsumo": "Crítico",
+      "FechaReporte": "2024-11-15"
+    },
+    {
+      "id": "aa83",
+      "ConsumoDiarioLitros": 120,
+      "FugasDetectadas": 0,
+      "DesperdicioEstimadoLitros": 0,
+      "NivelConsumo": "Bajo",
+      "FechaReporte": "2024-11-14"
+    },
+    {
+      "id": "dfc6",
+      "ConsumoDiarioLitros": 400,
+      "FugasDetectadas": 4,
+      "DesperdicioEstimadoLitros": 100,
+      "NivelConsumo": "Crítico",
+      "FechaReporte": "2024-11-13"
+    },
+    {
+      "id": "fb60",
+      "ConsumoDiarioLitros": 200,
+      "FugasDetectadas": 1,
+      "DesperdicioEstimadoLitros": 30,
+      "NivelConsumo": "Normal",
+      "FechaReporte": "2024-11-12"
+    },
+    {
+      "id": "d397",
+      "ConsumoDiarioLitros": 500,
+      "FugasDetectadas": 5,
+      "DesperdicioEstimadoLitros": 150,
+      "NivelConsumo": "Crítico",
+      "FechaReporte": "2024-11-11"
+    },
+    {
+      "id": "c9dd",
+      "ConsumoDiarioLitros": 100,
+      "FugasDetectadas": 0,
+      "DesperdicioEstimadoLitros": 0,
+      "NivelConsumo": "Bajo",
+      "FechaReporte": "2024-11-10"
+    },
+    {
+      "id": "c6f2",
+      "ConsumoDiarioLitros": 220,
+      "FugasDetectadas": 2,
+      "DesperdicioEstimadoLitros": 40,
+      "NivelConsumo": "Alto",
+      "FechaReporte": "2024-11-09"
+    },
+    {
+      "id": "3e39bcf6-2ce8-4cc5-8736-7a6ed6affccc",
+      "ConsumoDiarioLitros": 250,
+      "FugasDetectadas": 15,
+      "DesperdicioEstimadoLitros": 400,
+      "NivelConsumo": "Alto",
+      "FechaReporte": "2024-11-24"
+    }
+  ],
+  "alert": [
+    {
+      "id": "a679",
+      "id_consumo": "b55c",
+      "alerta": "Desperdicio estimado de agua de 50 litros detectados debido a fugas en el sistema. Se recomienda revisar el consumo"
+    },
+    {
+      "id": "1a34",
+      "id_consumo": "ddd8",
+      "alerta": "Alerta: Desperdicio estimado de agua de 20 litros detectado debido a una fuga. Recomendamos una revisión del sistema."
+    },
+    {
+      "id": "1c17",
+      "id_consumo": "8335",
+      "alerta": "Alerta Crítica: Desperdicio estimado de agua de 70 litros debido a fugas. Nivel de consumo crítico. Acción inmediata recomendada."
+    },
+    {
+      "id": "928f",
+      "id_consumo": "aa83",
+      "alerta": "Desperdicio de agua no detectado. Consumo bajo y sin fugas en el sistema."
+    },
+    {
+      "id": "4f84",
+      "id_consumo": "dfc6",
+      "alerta": "Alerta Crítica: Desperdicio estimado de agua de 100 litros debido a fugas graves. Nivel de consumo crítico. Requiere acción urgente."
+    },
+    {
+      "id": "7789",
+      "id_consumo": "fb60",
+      "alerta": "Alerta: Desperdicio estimado de agua de 30 litros detectado debido a una fuga. Se recomienda revisar el sistema."
+    },
+    {
+      "id": "8e6d",
+      "id_consumo": "d397",
+      "alerta": "Alerta Crítica: Desperdicio estimado de agua de 150 litros debido a fugas importantes. Nivel de consumo crítico. Acción urgente recomendada."
+    },
+    {
+      "id": "03ea",
+      "id_consumo": "c9dd",
+      "alerta": "Desperdicio de agua no detectado. Consumo bajo y sin fugas en el sistema."
+    },
+    {
+      "id": "dc8e",
+      "id_consumo": "c6f2",
+      "alerta": "Alerta: Desperdicio estimado de agua de 40 litros debido a fugas. Recomendamos revisar el sistema."
+    }
+  ],
+  "users": [
+    {
+      "id": "0f08c5cc-de6b-440e-bd2c-cd2a1480c309",
+      "password": "$2b$10$lXNFPfl2gZo0/3vBzcFYdukVvygh/lvOTC651oB942F2w3z.gYjgS",
+      "Nombre": "Walter Cobacango",
+      "Edad": 20,
+      "Sector": "PONCIANO",
+      "Canton": "Quito"
+    },
+    {
+      "id": "92bc89e5-edcc-4d38-acc2-d0e33ae07acf",
+      "password": "$2b$10$jrp6k6lI8oR0FKA9u3UEye7t3e723xHYiK.lXZ9PvfqXQyh0O6eYO",
+      "Nombre": "María Sánchez",
+      "Edad": 25,
+      "Sector": "LA CAROLINA",
+      "Canton": "Quito"
+    },
+    {
+      "id": "a541d499-a83c-4515-84c1-8a635d4d2e66",
+      "password": "$2b$10$DquY.Ho9GxdUBzb6Y4BLYeNDHiECvVXO3WRFG9hhrrCCz9zssY4ge",
+      "Nombre": "Carlos Pérez",
+      "Edad": 30,
+      "Sector": "LA MARISCAL",
+      "Canton": "Quito"
+    },
+    {
+      "id": "d6ce675c-07da-457f-a93f-055d587736a6",
+      "password": "$2b$10$jN/6DgGM7HAEFgCrqqOET.mpxy3.ZZNWoA1uZu7KbFCJkoAQBkh5a",
+      "Nombre": "Lucía Fernández",
+      "Edad": 22,
+      "Sector": "CUMBAYÁ",
+      "Canton": "Quito"
+    },
+    {
+      "id": "478c84c8-f4ea-455f-9fe0-7902f535b975",
+      "password": "$2b$10$FSHmullkomaaCwrucqzeTObs.F7tmu2JT2gB3oG1/NgdIEyVBohfu",
+      "Nombre": "Francis Aconda",
+      "Edad": 21,
+      "Sector": "La Floresta",
+      "Canton": "Quito"
+    },
+    {
+      "id": "a3c7dd48-d730-4b9f-aa0d-6599e9c748a2",
+      "password": "$2b$10$ulHWz6g.OpLKrAvao8USeeG/4szUQh1hRZpJg7jZszSP94XeQMNwK",
+      "Nombre": "Evelyn Guachamin",
+      "Edad": 27,
+      "Sector": "Guamani",
+      "Canton": "Quito"
+    },
+    {
+      "id": "97ab848f-b64e-4e25-8034-d47537669e33",
+      "password": "$2b$10$/1Sbd8TQK1qC.t4IpO/zSuPnU0pFzwRDAJTPXkKCebRuNwX2NxkEu",
+      "Nombre": "Ariel Ashqui",
+      "Edad": 22,
+      "Sector": "Bellavista",
+      "Canton": "Quito"
+    },
+    {
+      "id": "ec820f5c-74a3-4be8-88c4-53ba2d3be453",
+      "password": "$2b$10$cYGPaRFZe3gqPAZBLjEax.R5PRO./LIs5emf7PZiA2x/Jc1bCtJya",
+      "Nombre": "Alisson Viteri",
+      "Edad": 23,
+      "Sector": "Recreo",
+      "Canton": "Quito"
+    },
+    {
+      "id": "740fbce7-61fb-4bd8-9b4c-cb4e4af4c66d",
+      "password": "$2b$10$xYYnQSVsiEIUYfJFCrAxeeE1bHhyiZxWu.mRsZfMGz5LURE1bV0gq",
+      "Nombre": "Jonathan Ramirez",
+      "Edad": 21,
+      "Sector": "Cotocollao",
+      "Canton": "Quito"
+    }
+  ]
+}
